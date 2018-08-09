@@ -1,0 +1,1 @@
+Saludos, <a href="www.guiate.com.ve/suscripcion/{{ $data['verificacion'] }}">www.guiate.com.ve</a>.
